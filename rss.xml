@@ -4,8 +4,15 @@
         <description><![CDATA[Algoinvesting]]></description>
         <link>https://thegrid.ai/algoinvesting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 00:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 00:22:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/algoinvesting/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Algorithmic trading]]></title>
+            <description><![CDATA[<article><h1>Algorithmic trading</h1><p>Algorithmic trading, also called algo trading and black box trading, encompasses trading systems that are heavily reliant on complex mathematical formulas and high-speed, computer programs to determine trading strategies. These strategies use electronic platforms to enter trading orders with an algorithm which executes pre-programmed trading instructions accounting for a variety of variables such as timing, price, and volume.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3fcdffb3e19fa58ce531a57fb6101926/noop.png?input=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F60%2FTraditional_Architecture.png%2F220px-Traditional_Architecture.png"></article>]]></description>
+            <link>https://en.wikipedia.org/wiki/Algorithmic_trading</link>
+            <guid isPermaLink="false">fa6d8f73-bb44-4a3e-9c9c-c55e37100cef</guid>
+            <pubDate>Thu, 07 Jul 2016 00:22:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb907c85-dc4e-40c5-a1f7-ff87d865394d.jpg">]]></description>
